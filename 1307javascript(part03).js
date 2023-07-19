@@ -1,4 +1,4 @@
-/*Trim method remove whitespacefrom both ends of string and return newone (not from center)*/
+/*Trim method remove whitespace from both ends of string and return newone (not from center)*/
 // let str = "    suraj bharti";
 // let methodTrim = str.trim();
 // console.log(methodTrim);
